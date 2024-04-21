@@ -1,5 +1,6 @@
 Hepsiburada API Test Case
 
-API Test senaryoları https://httpbin.org/#/ üzerinden gerçekleşmiştir.
+API Test senaryoları için `https://httpbin.org/#/` sitesi kullanılmıştır.
 
-GET ve POST HTTP metotları bir adet başarılı bir adet başarısız case örneği yapılmıştır.
+Senaryolara ait rapor çıktıları `target/` klasörü altında bulunmaktadır. 
+
