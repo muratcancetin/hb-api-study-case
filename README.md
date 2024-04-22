@@ -1,8 +1,8 @@
-Hepsiburada API Test Case
+## Hepsiburada API Test Case
 
 API Test senaryoları için `https://httpbin.org/#/` sitesi kullanılmıştır.
 
-Gerçekleştirilen Senaryolar : 
+#### Gerçekleştirilen Senaryolar : 
 
 `GET` request ile status code `200` ve `400` değerlerinin kontrol edilmesi
 
